@@ -5,3 +5,13 @@ body {
     height: 100vh;
     flex-direction: column;
 }
+
+#start-tour {
+    padding: 10px 20px;
+    background-color: #6c757d;
+    color: white;
+    border: none;
+    cursor: pointer;
+    display: inline-block;
+    margin-bottom: 20px;
+}
